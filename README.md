@@ -20,6 +20,6 @@ Still nothing. This test is using Git from a clone of the repo...
 
 It does not trigger when I push from the commandline either...
 
-changed the key in jenkins to the same key I used to push. it had different permissions.
+changed the key in jenkins to the same key I used to push.
 
-test3
+test1234
